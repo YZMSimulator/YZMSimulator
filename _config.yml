@@ -14,14 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MM
-email:
+email: Subscribe to unlock this feature
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  Montreals hottest new robotics developer. Recommended by 11/10 dentists.
+  #Write an awesome description for your new site here. You can edit this
+  #line in _config.yml. It will appear in your document head meta (for
+  #Google search results) and in your feed.xml site description.
+twitter_username: COMING SOON
+github_username: YZMSimulator
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -58,9 +59,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Yiorgio Mathioudakis"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I am a one of those physics + comp sci combo types. I love working with robotics in simulated environments."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
